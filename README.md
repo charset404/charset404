@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/12577476/236120113-06dd2ce8-3f02-48ef-87cc-4d176403daf6.gif" width="100%"/>
 
-**M**eu nome é **Bruno B**, sou um desenvolvedor front-end com experiência em tecnologias como HTML, CSS, JavaScript, TypeScript e React Native. Ao longo da minha carreira, trabalhei em projetos web e mobile, criando interfaces de usuário visualmente atraentes e fáceis de usar, além de garantir que todas as minhas soluções estejam conforme as melhores práticas de desenvolvimento.
-
-**T**ambém sou experiente em gerenciamento de versão com Git, me permitindo colaborar e integrar mudanças com facilidade e eficiência.
-
-**S**e você precisa de ajuda com seus projetos de front-end, fico feliz em ajudá-lo a criar soluções eficazes e visualmente atraentes que podem ajudar sua empresa a atingir seus objetivos.
+> #### Meu nome é **Bruno B**, sou um desenvolvedor *front-end* com experiência em tecnologias como HTML, CSS, JavaScript, TypeScript e React Native. Ao longo da minha carreira, trabalhei em projetos *web* e *mobile*, criando interfaces de usuário visualmente atraentes e fáceis de usar, além de garantir que todas as minhas soluções estejam conforme as melhores práticas de desenvolvimento.
+> 
+> #### Também sou experiente em gerenciamento de versão com Git, me    permitindo colaborar e integrar mudanças com facilidade e eficiência.
+> 
+> #### Se você precisa de ajuda com seus projetos de front-end, fico feliz em ajudá-lo a criar soluções eficazes e visualmente atraentes que podem ajudar sua empresa a atingir seus objetivos.
 
 # 
 
