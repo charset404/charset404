@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/12577476/236267026-668f9fee-19a5-4172-be01-149b7a98f495.jpg" width="100%"/>
 
+![Meu status no github](https://github-readme-stats.vercel.app/api?username=charset404&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true)
+
 #### Linguagens de programação
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img 
