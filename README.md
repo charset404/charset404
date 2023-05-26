@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/12577476/236120113-06dd2ce8-3f02-48ef-87cc-4d176403daf6.gif" width="100%"/>
 
-> #### Meu nome é **Bruno B**, sou um desenvolvedor *front-end* com experiência em tecnologias como HTML, CSS, JavaScript, TypeScript e React Native. Ao longo da minha carreira, trabalhei em projetos *web* e *mobile*, criando interfaces de usuário visualmente atraentes e fáceis de usar, além de garantir que todas as minhas soluções estejam conforme as melhores práticas de desenvolvimento.
+> #### Meu nome é **Bruno B**, sou um desenvolvedor *front-end* com experiência em tecnologias como JavaScript, TypeScript, React-native e NextJS. Ao longo da minha carreira, trabalhei em projetos *web* e *mobile*, criando interfaces de usuário visualmente atraentes e fáceis de usar, além de garantir que todas as minhas soluções estejam conforme as melhores práticas de desenvolvimento.
 > 
 > #### Também sou experiente em gerenciamento de versão com Git, me    permitindo colaborar e integrar mudanças com facilidade e eficiência.
 > 
@@ -18,11 +18,7 @@ src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&
 src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 
 #### Frameworks e bibliotecas
-<img 
-src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" /> <img 
-src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img 
-src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
 
 #### Ferramentas adicionais
 <img 
