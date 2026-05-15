@@ -1,26 +1,54 @@
 <img src="https://user-images.githubusercontent.com/12577476/236120113-06dd2ce8-3f02-48ef-87cc-4d176403daf6.gif" width="100%"/>
 
-> #### Meu nome é **Bruno B**, sou um desenvolvedor *front-end* com experiência em tecnologias como JavaScript, TypeScript, React-native e NextJS. Ao longo da minha carreira, trabalhei em projetos *web* e *mobile*, criando interfaces de usuário visualmente atraentes e fáceis de usar, além de garantir que todas as minhas soluções estejam conforme as melhores práticas de desenvolvimento.
-> 
-> #### Também sou experiente em gerenciamento de versão com Git, me    permitindo colaborar e integrar mudanças com facilidade e eficiência.
-> 
-> #### Se você precisa de ajuda com seus projetos de front-end, fico feliz em ajudá-lo a criar soluções eficazes e visualmente atraentes que podem ajudar sua empresa a atingir seus objetivos.
+> #### Meu nome é **Bruno B**, desenvolvedor full stack focado na criação de produtos digitais, sistemas SaaS e interfaces modernas de alta performance.
+>
+> #### Trabalho no desenvolvimento de aplicações *web* e *mobile* utilizando tecnologias como *Next.js*, *React*, *TypeScript*, *Laravel* e *TailwindCSS*, com foco em experiência do usuário, performance e escalabilidade.
+>
+> #### Tenho experiência na construção de dashboards, plataformas administrativas, automações, integrações de APIs, inteligência artificial e sistemas voltados para negócios reais.
+>
+> #### Atualmente desenvolvo soluções modernas envolvendo UX estratégica, arquitetura de interfaces e ecossistemas completos para produtos digitais.
 
 <img src="https://user-images.githubusercontent.com/12577476/236267026-668f9fee-19a5-4172-be01-149b7a98f495.jpg" width="100%"/>
 
-![Meu status no github](https://github-readme-stats.vercel.app/api?username=charset404&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=charset404&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
 
-#### Linguagens de programação
+## ⚡ Tecnologias
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img 
-src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /> <img 
-src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /> <img 
-src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111111.svg?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111.svg?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111.svg?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/React_Native-111111.svg?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
 
-#### Frameworks e bibliotecas
-<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" /></br></br>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+### Backend & Infra
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111111.svg?style=flat-square&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/PHP-111111.svg?style=flat-square&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Node.js-111111.svg?style=flat-square&logo=node.js&logoColor=5FA04E"/>
+  <img src="https://img.shields.io/badge/MySQL-111111.svg?style=flat-square&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111.svg?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/Docker-111111.svg?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-111111.svg?style=flat-square&logo=linux&logoColor=FCC624"/>
+</p>
 
-#### Ferramentas adicionais
-<img 
-src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+### AI, Design & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-111111.svg?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-111111.svg?style=flat-square&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-111111.svg?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
+  <img src="https://img.shields.io/badge/n8n-111111.svg?style=flat-square&logo=n8n&logoColor=EA4B71"/>
+  <img src="https://img.shields.io/badge/Figma-111111.svg?style=flat-square&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Git-111111.svg?style=flat-square&logo=git&logoColor=F05032"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- Email: contato@charset404.com
+- GitHub: https://github.com/charset404
